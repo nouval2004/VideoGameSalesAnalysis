@@ -1,4 +1,4 @@
-# VideoGameSalesAnalysis
+# Video Game Sales Analysis With Phyton
 
 This repository contains a comprehensive analysis and visualization of video game sales data. The project aims to provide insights into global sales trends, popular platforms, genres, and top publishers. By leveraging Python libraries such as pandas, matplotlib, and seaborn, we perform data cleaning, descriptive analysis, deep analysis, and create various visualizations to understand the video game market better.
 
